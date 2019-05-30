@@ -1,0 +1,11 @@
+[package]
+name = "wt-varint"
+version = "0.1.0"
+authors = ["Sainath Mallidi <sainathdreams@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dev-dependencies]
+quickcheck = { version = "0.8", default-features = false }
+quickcheck_macros = "0.8.0"
