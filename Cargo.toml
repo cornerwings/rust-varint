@@ -1,5 +1,5 @@
 [package]
-name = "wt-varint"
+name = "rust-varint"
 version = "0.1.0"
 authors = ["Sainath Mallidi <sainathdreams@gmail.com>"]
 edition = "2018"
